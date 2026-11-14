@@ -28,15 +28,15 @@ Many places already let people report *lost* items. Fewer places care about the 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 | Items            | Numbers and a table of all reports. Keyword search (JavaScript), category list and the All / Lost / Found / Returned tabs (CSS only) |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-| Item detail      | Photo, details, WhatsApp contact (logged in only), respond ("This is my item" / "I found this item"),                                |
-|                  | owner-only "I received my item" with optional feedback                                                                               |
+| Item detail      | Photo, details, WhatsApp contact (logged in only), respond ("This is my item" / "I found this item"),                                
+                     owner-only "I received my item" with optional feedback                                                                               |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-| Report           | Lost / found form. The photo is required. The location is a list                                                                     |
-|                  | (Main Building, PG Building, Satyarati Building, Hostel Area, Parking Area, Canteen, Sports Ground, Other = type the name).          |
-|                  |  The hidden detail field appears only for "I found an item"                                                                          |
+| Report           | Lost / found form. The photo is required. The location is a list                                                                      
+                     (Main Building, PG Building, Satyarati Building, Hostel Area, Parking Area, Canteen, Sports Ground, Other = type the name).           
+                      The hidden detail field appears only for "I found an item"                                                                          |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-| Heroes           | 3D bar chart of the points (Three.js) with a "Pause rotation" button,                                                                |
-|                  | ranking list, badges, how to become a hero, full ranking table, thank-you wall                                                       |
+| Heroes           | 3D bar chart of the points (Three.js) with a "Pause rotation" button,                                                                
+                     ranking list, badges, how to become a hero, full ranking table, thank-you wall                                                       |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 | About            | Profile of the founder, background, vision, mission, and values                                                                      |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -83,10 +83,8 @@ cannot be sent, so a copy is saved in the browser instead and the page says so.
   a database, and hashed passwords.
 
 ---- Team ----
-----------------------------------------------------------------------------------|
-| Member                             | Responsibility                             |                           |
------------------------------------------------------------------------------------
-| Student A (@JasperPallasW)         | Pages, Data and photos, CSS, Three.js      |
------------------------------------------------------------------------------------
-| Student B (@shreyanshshekhar-prog) | JavaScript logic, deployment, presentation |
------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+| Student @JasperPallasW         | Pages, Data and photos, CSS, Three.js      |
+-------------------------------------------------------------------------------
+| Student @shreyanshshekhar-prog | JavaScript logic, deployment, presentation |
+-------------------------------------------------------------------------------

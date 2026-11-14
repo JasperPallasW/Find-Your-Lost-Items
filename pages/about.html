@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About - Find Your Lost Items</title>
+  <!-- Order matters: Bootstrap first, then icons, then OUR style.css (the last one wins) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-root="../">
+
+  <!-- ===== NAVBAR =====
+       The phone menu works with CSS only: a hidden checkbox + a label (no Bootstrap JavaScript) -->
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-lf sticky-top">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="../index.html"><i class="bi bi-search"></i> Find Your Lost Items</a>
+      <input type="checkbox" id="menuToggle" class="menu-toggle" aria-hidden="true">
+      <label for="menuToggle" class="navbar-toggler" aria-label="Open or close the menu"><span class="navbar-toggler-icon"></span></label>
+      <div class="navbar-collapse menu-links">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="../index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="items.html">Items</a></li>
+          <li class="nav-item"><a class="nav-link" href="report.html">Report</a></li>
+          <li class="nav-item"><a class="nav-link" href="heroes.html">Heroes</a></li>
+          <li class="nav-item"><a class="nav-link active" href="about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+          <li class="nav-item"><a class="nav-link" id="navLogin" href="login.html">Login</a></li>
+          <li class="nav-item"><a class="nav-link btn-register" id="navRegister" href="register.html">Register</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <div class="container">
+      <h1 class="fw-bold mb-1">About Us</h1>
+      <p class="mb-0">The story and the goals behind Find Your Lost Items.</p>
+    </div>
+  </header>
+
+  <main class="container py-5">
+
+    <!-- Profile -->
+    <section class="row g-4 align-items-center mb-5">
+      <div class="col-lg-4 text-center">
+        <div class="avatar-circle"><i class="bi bi-person-fill"></i></div>
+        <h4 class="mt-3 mb-0">Founder &amp; Owner</h4>
+        <p class="text-muted">Student BCA 1B &middot; Basic Web Development project</p>
+      </div>
+      <div class="col-lg-8">
+        <h2 class="section-title mb-3">Who we are</h2>
+        <p>Find Your Lost Items is a lost-and-found website made by students, for students. It started as a Basic Web Development project, built by a team of two students with HTML5, CSS3, Bootstrap and JavaScript.</p>
+        <p>The founder designs, builds, and looks after the website, and reads every message sent through the <a href="contact.html">Contact Us</a> page. Our goal is simple: when something is lost on campus it should be easy to find it again, and the people who return things should be thanked.</p>
+      </div>
+    </section>
+
+    <!-- Background -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3">Why this website exists</h2>
+      <div class="row g-4">
+        <div class="col-md-4"><div class="about-card h-100">
+          <div class="about-icon"><i class="bi bi-chat-dots-fill"></i></div>
+          <h5>The problem</h5>
+          <p class="text-muted mb-0">Lost items are often announced in busy chat groups where the message is buried within hours. People who find a wallet, a phone, or an ID card often do not know who the owner is.</p>
+        </div></div>
+        <div class="col-md-4"><div class="about-card h-100">
+          <div class="about-icon"><i class="bi bi-box-seam-fill"></i></div>
+          <h5>Our focus: found items</h5>
+          <p class="text-muted mb-0">Other places already collect reports of lost items. We also care about the other side: the found items and the honest students who bring them back.</p>
+        </div></div>
+        <div class="col-md-4"><div class="about-card h-100">
+          <div class="about-icon"><i class="bi bi-globe-asia-australia"></i></div>
+          <h5>A diverse campus</h5>
+          <p class="text-muted mb-0">Our students come from many Indian states and from other countries. Every account shows where the student is from, to celebrate this diversity.</p>
+        </div></div>
+      </div>
+    </section>
+
+    <!-- Vision and mission -->
+    <section class="row g-4 mb-5">
+      <div class="col-lg-5">
+        <div class="vision-box h-100">
+          <h2 class="h3 mb-3"><i class="bi bi-eye-fill"></i> Our vision</h2>
+          <p class="mb-0 fs-5">A campus where every lost item finds its way back to its owner, and where honesty is noticed and celebrated.</p>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="about-card h-100">
+          <h2 class="h3 mb-3"><i class="bi bi-bullseye"></i> Our mission</h2>
+          <ul class="mission-list mb-0">
+            <li><strong>Make it easy.</strong> Report a lost or found item in about a minute, with a photo, a short description, and the place.</li>
+            <li><strong>Reward honesty.</strong> Finders earn points, badges, and a place on the Finder Heroes board, but only after the owner confirms the return.</li>
+            <li><strong>Protect people.</strong> Only logged in students can see the contact button, and a hidden detail helps the finder check the real owner.</li>
+            <li><strong>Keep it simple and free.</strong> One website, no complicated steps, no cost for students.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Values -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3">What we value</h2>
+      <div class="row g-4 text-center">
+        <div class="col-md-4"><div class="about-card h-100"><div class="about-icon mx-auto"><i class="bi bi-heart-fill"></i></div><h5>Honesty</h5><p class="text-muted mb-0">Returning what is not ours is the right thing to do, and we say thank you.</p></div></div>
+        <div class="col-md-4"><div class="about-card h-100"><div class="about-icon mx-auto"><i class="bi bi-people-fill"></i></div><h5>Community</h5><p class="text-muted mb-0">Students help students. Every report can make someone&rsquo;s day better.</p></div></div>
+        <div class="col-md-4"><div class="about-card h-100"><div class="about-icon mx-auto"><i class="bi bi-lightning-charge-fill"></i></div><h5>Simplicity</h5><p class="text-muted mb-0">Clear pages and few steps, so everyone can use the website from a phone.</p></div></div>
+      </div>
+    </section>
+
+    <!-- Built with + call to action -->
+    <section class="cta-band p-4 p-md-5 text-center">
+      <h3 class="fw-bold">Lost or found something?</h3>
+      <p class="mb-3">Built with HTML5, CSS3, Bootstrap, JavaScript and Three.js. This is a front-end project, so the data stays in your own browser.</p>
+      <a href="report.html" class="btn btn-dark btn-lg me-2 mb-2">Report an item</a>
+      <a href="items.html" class="btn btn-outline-dark btn-lg me-2 mb-2">Browse items</a>
+      <a href="contact.html" class="btn btn-outline-dark btn-lg mb-2">Contact us</a>
+    </section>
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="footer-lf text-center py-4">
+    <div class="container">
+      <p class="mb-1"><i class="bi bi-trophy-fill"></i> Every returned item makes our campus better. <a href="heroes.html">Meet the Finder Heroes</a></p>
+      <small>&copy; 2026 Find Your Lost Items | Basic Web Development Project</small>
+    </div>
+  </footer>
+
+  <!-- Our JavaScript. Order matters: data and helpers first, the page script last -->
+  <script src="../js/storage.js"></script>
+  <script src="../js/ui.js"></script>
+  <script src="../js/auth.js"></script>
+</body>
+</html>

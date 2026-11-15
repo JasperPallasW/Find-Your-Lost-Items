@@ -83,8 +83,8 @@ cannot be sent, so a copy is saved in the browser instead and the page says so.
   a database, and hashed passwords.
 
 ---- Team ----
--------------------------------------------------------------------------------
-| Student @JasperPallasW         | Pages, Data and photos, CSS, Three.js      |
--------------------------------------------------------------------------------
-| Student @shreyanshshekhar-prog | JavaScript logic, deployment, presentation |
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+| Student @JasperPallasW         | Pages, Data and photos, CSS, JavaScript, Three.js, deployment |
+--------------------------------------------------------------------------------------------------
+| Student @shreyanshshekhar-prog | presentation |
+--------------------------------------------------------------------------------------------------

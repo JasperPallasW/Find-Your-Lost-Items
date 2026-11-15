@@ -3,9 +3,7 @@ A campus website where students can report, search, and return lost items, and w
 "students who return found items are honored" as Finder Heroes.
 
 ---- Problem ----
-Students who lose items on campus have no central place to look for them. Messages in chat
-groups get buried, and people who find an item often do not know who the owner is.
-Many places already let people report *lost* items. Fewer places care about the **finder**.
+Students who lose their belongings often report them through chat groups or other existing channels. However, these messages can quickly get buried and become difficult to find. Meanwhile, people who find an item may not know how to report it or connect it with the right owner.
 
 ---- Our solution (what is special) ----
 - Found item first idea: reporting and returning found items is rewarded.

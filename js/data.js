@@ -283,7 +283,7 @@ const seedItems = [
     reporterId: "demo-tenzin",
     reporterName: "Tenzin Dorji",
     reporterOrigin: "Bhutan",
-    contact: "919000000011",
+    contact: "919008340011",
     secret: "",
     responderId: "demo-kwame",
     responderName: "Kwame Mensah",

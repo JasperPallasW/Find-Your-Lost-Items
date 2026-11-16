@@ -89,4 +89,5 @@ cannot be sent, so a copy is saved in the browser instead and the page says so.
 
 Link to the website: 
 https://find-your-lost-items.netlify.app/
+or 
 https://jasperpallasw.github.io/Find-Your-Lost-Items/

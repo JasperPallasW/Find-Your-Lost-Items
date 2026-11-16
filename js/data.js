@@ -40,7 +40,7 @@ const seedItems = [
     image: "images/blackWallet.jpeg",
     reporterId: "demo-ayush",
     reporterName: "Ayush Patel",
-    reporterOrigin: "Gujarat, India",
+    reporterOrigin: "Kerala, India",
     contact: "919000000001",
     secret: "",
     responderId: "",

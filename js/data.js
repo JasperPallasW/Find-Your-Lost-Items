@@ -186,7 +186,7 @@ const seedItems = [
     reporterId: "demo-sara",
     reporterName: "Sara Khan",
     reporterOrigin: "Maharashtra, India",
-    contact: "919000000007",
+    contact: "919004500007",
     secret: "",
     responderId: "",
     responderName: "",

@@ -1,6 +1,6 @@
 ---- Find Your Lost Items ----
 A campus website where students can report, search, and return lost items, and where
-"students who return found items are honored" as Finder Heroes.
+"students who return found items are honored" as Finder Heroes
 
 ---- Problem ----
 Students who lose their belongings often report them through chat groups or other existing channels. However, these messages can quickly get buried and become difficult to find. Meanwhile, people who find an item may not know how to report it or connect it with the right owner.

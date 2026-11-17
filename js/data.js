@@ -63,7 +63,7 @@ const seedItems = [
     date: "2026-10-06",
     image: "images/silverKeys.jpg",
     reporterId: "demo-mahek",
-    reporterName: "Meera Nair",
+    reporterName: "Mahek Nair",
     reporterOrigin: "Kerala, India",
     contact: "919000000002",
     secret: "",

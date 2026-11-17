@@ -256,7 +256,7 @@ const seedItems = [
     location: "Canteen",
     date: "2026-10-09",
     image: "images/glassesCase.jpeg",
-    reporterId: "demo-nisha",
+    reporterId: "demo-nihant",
     reporterName: "Nisha Verma",
     reporterOrigin: "Uttar Pradesh, India",
     contact: "919000000010",

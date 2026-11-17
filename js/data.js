@@ -335,7 +335,7 @@ const seedItems = [
     contact: "919045600013",
     secret: "",
     responderId: "demo-sneha",
-    responderName: "Neha Trivedi",
+    responderName: "Sneha Trivedi",
     responderOrigin: "Rajasthan, India",
     responderContact: "919100000013",
     responderNote: "Blue string, and my project files are inside.",

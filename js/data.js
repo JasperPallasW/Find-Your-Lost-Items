@@ -281,7 +281,7 @@ const seedItems = [
     date: "2026-10-06",
     image: "images/notebook.jpeg",
     reporterId: "demo-musilu",
-    reporterName: "Tenzin Dorji",
+    reporterName: "Musilu Dorji",
     reporterOrigin: "Bhutan",
     contact: "919008340011",
     secret: "",

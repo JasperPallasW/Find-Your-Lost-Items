@@ -167,7 +167,7 @@ const seedItems = [
     responderId: "demo-anil",
     responderName: "Anil Kumar",
     responderOrigin: "Bihar, India",
-    responderContact: "919100000006",
+    responderContact: "919100080006",
     responderNote: "It is my card, I wear glasses.",
     responderDate: "2026-10-03",
     returnedDate: "2026-10-04",

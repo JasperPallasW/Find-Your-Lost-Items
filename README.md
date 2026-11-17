@@ -84,7 +84,7 @@ cannot be sent, so a copy is saved in the browser instead and the page says so.
 --------------------------------------------------------------------------------------------------
 | Student @JasperPallasW         | Pages, Data and photos, CSS, JavaScript, Three.js, deployment |
 --------------------------------------------------------------------------------------------------
-| Student @shreyanshshekhar-prog | presentation |
+| Student @shreyanshshekhar-prog | Presentation, Data, Javascript, Three.js|
 --------------------------------------------------------------------------------------------------
 
 Link to the website: 

@@ -280,7 +280,7 @@ const seedItems = [
     location: "Satyarati Building",
     date: "2026-10-06",
     image: "images/notebook.jpeg",
-    reporterId: "demo-tenzin",
+    reporterId: "demo-musilu",
     reporterName: "Tenzin Dorji",
     reporterOrigin: "Bhutan",
     contact: "919008340011",

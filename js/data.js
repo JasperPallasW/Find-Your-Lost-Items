@@ -114,7 +114,7 @@ const seedItems = [
     reporterId: "demo-rohan",
     reporterName: "Rohan Das",
     reporterOrigin: "West Bengal, India",
-    contact: "919000000004",
+    contact: "919000009004",
     secret: "",
     responderId: "",
     responderName: "",

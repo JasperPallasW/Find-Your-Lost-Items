@@ -330,7 +330,7 @@ const seedItems = [
     date: "2026-10-07",
     image: "images/penDrive.jpg",
     reporterId: "demo-aarna",
-    reporterName: "Aarav Patel",
+    reporterName: "Aarna Patel",
     reporterOrigin: "Gujarat, India",
     contact: "919045600013",
     secret: "",

@@ -38,7 +38,7 @@ const seedItems = [
     location: "Main Building",
     date: "2026-10-05",
     image: "images/blackWallet.jpeg",
-    reporterId: "demo-ayush",
+    reporterId: "demo-ayusha",
     reporterName: "Ayush Patel",
     reporterOrigin: "Kerala, India",
     contact: "919000000001",

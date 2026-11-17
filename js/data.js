@@ -65,7 +65,7 @@ const seedItems = [
     reporterId: "demo-mahek",
     reporterName: "Mahek Nair",
     reporterOrigin: "Kerala, India",
-    contact: "919000000002",
+    contact: "919000060002",
     secret: "",
     responderId: "",
     responderName: "",

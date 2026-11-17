@@ -334,7 +334,7 @@ const seedItems = [
     reporterOrigin: "Gujarat, India",
     contact: "919045600013",
     secret: "",
-    responderId: "demo-neha",
+    responderId: "demo-sneha",
     responderName: "Neha Trivedi",
     responderOrigin: "Rajasthan, India",
     responderContact: "919100000013",

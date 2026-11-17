@@ -329,7 +329,7 @@ const seedItems = [
     location: "Satyarati Building",
     date: "2026-10-07",
     image: "images/penDrive.jpg",
-    reporterId: "demo-aarav",
+    reporterId: "demo-aarna",
     reporterName: "Aarav Patel",
     reporterOrigin: "Gujarat, India",
     contact: "919045600013",

@@ -257,7 +257,7 @@ const seedItems = [
     date: "2026-10-09",
     image: "images/glassesCase.jpeg",
     reporterId: "demo-nihant",
-    reporterName: "Nisha Verma",
+    reporterName: "Nishat Verma",
     reporterOrigin: "Uttar Pradesh, India",
     contact: "919000000010",
     secret: "",

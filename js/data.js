@@ -235,7 +235,7 @@ const seedItems = [
     reporterId: "demo-jasper",
     reporterName: "Jasper Pallas Widyadhana",
     reporterOrigin: "Indonesia",
-    contact: "919737251844",
+    contact: "919735625184",
     secret: "",
     responderId: "demo-isha",
     responderName: "Isha Joshi",

@@ -82,9 +82,9 @@ cannot be sent, so a copy is saved in the browser instead and the page says so.
 
 ---- Team ----
 --------------------------------------------------------------------------------------------------
-| Student @JasperPallasW         | Pages, Data and photos, CSS, JavaScript, Three.js, deployment |
+| Student @JasperPallasW         | Built the pages and the logic.                  |
 --------------------------------------------------------------------------------------------------
-| Student @shreyanshshekhar-prog | Presentation, Data, Javascript, Three.js|
+| Student @shreyanshshekhar-prog | Worked on data, documentation, and presentation.|
 --------------------------------------------------------------------------------------------------
 
 Link to the website: 

@@ -38,9 +38,9 @@ const seedItems = [
     location: "Main Building",
     date: "2026-10-05",
     image: "images/blackWallet.jpeg",
-    reporterId: "demo-aarav",
-    reporterName: "Aarav Patel",
-    reporterOrigin: "Gujarat, India",
+    reporterId: "demo-ayusha",
+    reporterName: "Ayusha Patel",
+    reporterOrigin: "Kerala, India",
     contact: "919000000001",
     secret: "",
     responderId: "",
@@ -50,7 +50,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 2,
@@ -62,10 +62,10 @@ const seedItems = [
     location: "Canteen",
     date: "2026-10-06",
     image: "images/silverKeys.jpg",
-    reporterId: "demo-meera",
-    reporterName: "Meera Nair",
+    reporterId: "demo-mahek",
+    reporterName: "Mahek Nair",
     reporterOrigin: "Kerala, India",
-    contact: "919000000002",
+    contact: "919000060002",
     secret: "",
     responderId: "",
     responderName: "",
@@ -74,7 +74,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 3,
@@ -89,7 +89,7 @@ const seedItems = [
     reporterId: "demo-kwame",
     reporterName: "Kwame Mensah",
     reporterOrigin: "Ghana",
-    contact: "919000000003",
+    contact: "919000009803",
     secret: "",
     responderId: "demo-rahul",
     responderName: "Rahul Mehta",
@@ -98,7 +98,7 @@ const seedItems = [
     responderNote: "The name tag says R. Mehta.",
     responderDate: "2026-10-07",
     returnedDate: "2026-10-08",
-    returnedNote: "Thank you for returning my bag so quickly!"
+    returnedNote: "Thank you for returning my bag so quickly!",
   },
   {
     id: 4,
@@ -106,14 +106,15 @@ const seedItems = [
     category: "Phone",
     reportType: "lost",
     status: "lost",
-    description: "Black smartphone with a transparent case and a cracked corner.",
+    description:
+      "Black smartphone with a transparent case and a cracked corner.",
     location: "PG Building",
     date: "2026-10-01",
     image: "images/blackPhone.jpeg",
     reporterId: "demo-rohan",
     reporterName: "Rohan Das",
     reporterOrigin: "West Bengal, India",
-    contact: "919000000004",
+    contact: "919000009004",
     secret: "",
     responderId: "",
     responderName: "",
@@ -122,7 +123,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 5,
@@ -137,7 +138,7 @@ const seedItems = [
     reporterId: "demo-priya",
     reporterName: "Priya Sharma",
     reporterOrigin: "Rajasthan, India",
-    contact: "919000000005",
+    contact: "919000307005",
     secret: "",
     responderId: "",
     responderName: "",
@@ -146,7 +147,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 6,
@@ -166,11 +167,11 @@ const seedItems = [
     responderId: "demo-anil",
     responderName: "Anil Kumar",
     responderOrigin: "Bihar, India",
-    responderContact: "919100000006",
+    responderContact: "919100080006",
     responderNote: "It is my card, I wear glasses.",
     responderDate: "2026-10-03",
     returnedDate: "2026-10-04",
-    returnedNote: "I was so worried about my ID card. Thank you!"
+    returnedNote: "I was so worried about my ID card. Thank you!",
   },
   {
     id: 7,
@@ -185,7 +186,7 @@ const seedItems = [
     reporterId: "demo-sara",
     reporterName: "Sara Khan",
     reporterOrigin: "Maharashtra, India",
-    contact: "919000000007",
+    contact: "919004500007",
     secret: "",
     responderId: "",
     responderName: "",
@@ -194,7 +195,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 8,
@@ -218,7 +219,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 9,
@@ -226,14 +227,15 @@ const seedItems = [
     category: "Electronics",
     reportType: "found",
     status: "returned",
-    description: "Scientific calculator with the initials A.R. written on the back.",
+    description:
+      "Scientific calculator with the initials A.R. written on the back.",
     location: "PG Building",
     date: "2026-10-02",
     image: "images/calculator.jpg",
     reporterId: "demo-jasper",
     reporterName: "Jasper Pallas Widyadhana",
     reporterOrigin: "Indonesia",
-    contact: "919737251844",
+    contact: "919735625184",
     secret: "",
     responderId: "demo-isha",
     responderName: "Isha Joshi",
@@ -242,7 +244,7 @@ const seedItems = [
     responderNote: "My initials are A.R. on the back.",
     responderDate: "2026-10-02",
     returnedDate: "2026-10-03",
-    returnedNote: "You saved my exam day. Thank you!"
+    returnedNote: "You saved my exam day. Thank you!",
   },
   {
     id: 10,
@@ -254,8 +256,8 @@ const seedItems = [
     location: "Canteen",
     date: "2026-10-09",
     image: "images/glassesCase.jpeg",
-    reporterId: "demo-nisha",
-    reporterName: "Nisha Verma",
+    reporterId: "demo-nihant",
+    reporterName: "Nishat Verma",
     reporterOrigin: "Uttar Pradesh, India",
     contact: "919000000010",
     secret: "",
@@ -266,7 +268,7 @@ const seedItems = [
     responderNote: "",
     responderDate: "",
     returnedDate: "",
-    returnedNote: ""
+    returnedNote: "",
   },
   {
     id: 11,
@@ -278,10 +280,10 @@ const seedItems = [
     location: "Satyarati Building",
     date: "2026-10-06",
     image: "images/notebook.jpeg",
-    reporterId: "demo-tenzin",
-    reporterName: "Tenzin Dorji",
+    reporterId: "demo-musilu",
+    reporterName: "Musilu Dorji",
     reporterOrigin: "Bhutan",
-    contact: "919000000011",
+    contact: "919008340011",
     secret: "",
     responderId: "demo-kwame",
     responderName: "Kwame Mensah",
@@ -290,7 +292,7 @@ const seedItems = [
     responderNote: "Found it on a bench near the Sathiarti Building.",
     responderDate: "2026-10-06",
     returnedDate: "2026-10-07",
-    returnedNote: "All my class notes were inside. Thank you so much!"
+    returnedNote: "All my class notes were inside. Thank you so much!",
   },
   {
     id: 12,
@@ -298,7 +300,8 @@ const seedItems = [
     category: "Electronics",
     reportType: "found",
     status: "returned",
-    description: "Black laptop charger with a small piece of red tape on the cable.",
+    description:
+      "Black laptop charger with a small piece of red tape on the cable.",
     location: "Hostel Area",
     date: "2026-10-05",
     image: "images/laptopCharger.jpeg",
@@ -314,7 +317,7 @@ const seedItems = [
     responderNote: "It has red tape on the cable.",
     responderDate: "2026-10-05",
     returnedDate: "2026-10-06",
-    returnedNote: "Thank you for your honesty!"
+    returnedNote: "Thank you for your honesty!",
   },
   {
     id: 13,
@@ -326,18 +329,18 @@ const seedItems = [
     location: "Satyarati Building",
     date: "2026-10-07",
     image: "images/penDrive.jpg",
-    reporterId: "demo-aarav",
-    reporterName: "Aarav Patel",
+    reporterId: "demo-aarna",
+    reporterName: "Aarna Patel",
     reporterOrigin: "Gujarat, India",
-    contact: "919000000013",
+    contact: "919045600013",
     secret: "",
-    responderId: "demo-neha",
-    responderName: "Neha Trivedi",
+    responderId: "demo-sneha",
+    responderName: "Sneha Trivedi",
     responderOrigin: "Rajasthan, India",
     responderContact: "919100000013",
     responderNote: "Blue string, and my project files are inside.",
     responderDate: "2026-10-07",
     returnedDate: "2026-10-08",
-    returnedNote: "My project files were saved. Thank you!"
-  }
+    returnedNote: "My project files were saved. Thank you!",
+  },
 ];
